@@ -22,14 +22,16 @@
 ---
 
 ### 🛠 Tech Stack
+![Linux](https://img.shields.io)
 ![AWS](https://img.shields.io)
+![GCP](https://img.shields.io)
 ![Kubernetes](https://img.shields.io)
 ![Terraform](https://img.shields.io)
-![GitHub Actions](https://img.shields.io)
+![GitLab CI/CD](https://img.shields.io)
 
 ---
 📫 **How to reach me:**  
 **LinkedIn:** [Mohamed AbdelAziz](https://www.linkedin.com/in/maziz00/)  
-**Medium:** [maziz00](https://medium.com/@maziz00)  
-**E-mail:** [maziz.yahya.sd@gmail.com] 
+**Medium:** [Maziz00](https://medium.com/@maziz00)  
+**E-mail:** maziz.yahya.sd@gmail.com
 
