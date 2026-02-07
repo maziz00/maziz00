@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed AbdelAziz 👋 DevOps Architect Consultant
 
-**Helping teams scale, automate, and deploy faster.**
+**Helping teams scale, automate, and deploy faster.**  
 **Founder | DevOps Accelerator | Architect**
 
 - ☁️ Cloud **GCP, AWS & Azure**
