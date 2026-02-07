@@ -29,7 +29,9 @@
 
 ---
 📫 **How to reach me:**
-**LinkedIn:** [Mohamed AbdelAziz]((https://www.linkedin.com/in/maziz00/))
+**LinkedIn:** [Mohamed AbdelAziz](https://www.linkedin.com/in/maziz00/)
+**LinkedIn:** [![LinkedIn](https://img.shields.io)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/maziz00/))
+
 **Medium:** (https://medium.com/@maziz00)
 **E-mail:** [maziz.yahya.sd@gmail.com] 
 
