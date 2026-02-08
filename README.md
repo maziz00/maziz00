@@ -1,37 +1,20 @@
-# Hi, I'm Mohamed AbdelAziz 👋 DevOps Architect Consultant
+# Mohammed AbdelAziz | Platform Engineering & MLOps Architect
 
-**Helping teams scale, automate, and deploy faster.**  
-**Founder | DevOps Accelerator | Architect**
+**12 Years GCC Enterprise Infrastructure | Ex-Emirates Airline, Zain, Du**
 
-- ☁️ Cloud **GCP, AWS & Azure**
-- 🛠️ IaC Tools: **Terraform, Ansible**
-- 🚀 CI/CD: **GitLab CI/CD, ArgoCD**
-- 🐳 Containers: **Kubernetes (GKE, EKS), OpenShift, Docker**
-- 📜 Scripting: **Bash, Python, Golang**  
-- 🔒 Security & Networking: **Istio, VPN, SGs, Vault, Cloudflare**
-- 🖥️ OS & Virtualization: **Ubuntu, Red Hat, CentOS, VMware**
-- 📈 Focusing on **Building secure, scalable, cost efficnet infrastructure, adopting DevSecOps, GitOps practices**
+🔧 **Core Competencies**
+- Platform Engineering: Kubernetes (EKS/GKE/RKE), GitOps, Terraform
+- CI/CD: GitLab CI/CD, ArgoCD, GitHub Actions
+- MLOps: LLM Deployment, Kubeflow, Model Serving Infrastructure
+- Cloud: AWS (EKS, RDS, S3), GCP (GKE, Cloud Build), Multi-Cloud Architecture
 
----
+🚀 **What I Build**
+Production-grade infrastructure for scale: 16-cluster Kubernetes platforms, 
+Jenkins-to-GitLab migrations, LLM serving on Kubernetes, zero-downtime cloud migrations.
 
-### 🚀 Projects Showcase
-*   **[Terraform AWS Foundation]**: Modular, secure network infrastructure (VPC, EKS).
-*   **[K8s App Deployment]**: Helm charts for microservices with GitHub Actions pipelines.
-*   **[Monitoring Dashboard]**: Custom Grafana dashboards for cluster monitoring.
+📍 **UAE-Based | GMT+4 | Available for Consulting & Remote Roles**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/maziz00/) | [Portfolio](https://medium.com/@maziz00) | 📧 maziz.yahya.sd@gmail.com
 
 ---
-
-### 🛠 Tech Stack
-![Linux](https://img.shields.io)
-![AWS](https://img.shields.io)
-![GCP](https://img.shields.io)
-![Kubernetes](https://img.shields.io)
-![Terraform](https://img.shields.io)
-![GitLab CI/CD](https://img.shields.io)
-
----
-📫 **How to reach me:**  
-**LinkedIn:** [Mohamed AbdelAziz](https://www.linkedin.com/in/maziz00/)  
-**Medium:** [Maziz00](https://medium.com/@maziz00)  
-**E-mail:** maziz.yahya.sd@gmail.com
 
