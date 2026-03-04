@@ -180,7 +180,9 @@ Written for engineers who build and ship at scale in the real world — no hype,
 - Infrastructure as Code (Terraform + Ansible)
 - MENA compliance automation
 
-**[Book a consultation on Upwork →](https://www.upwork.com/freelancers/maziz00?mp_source=share)**
+**[Book a consultation on Upwork →](https://www.upwork.com/freelancers/maziz00?s=1110580753140797440)**
+
+**[Book 20 min call on Calendly →](https://calendly.com/maziz00/devops)**
 
 ---
 
