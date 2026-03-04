@@ -1,6 +1,6 @@
 <div align="center">
 
-# مرحباً — Hello, I'm Mohamed AbdelAziz 👋
+# مرحباً - Hello, I'm Mohamed AbdelAziz 👋
 
 **Senior DevOps & Cloud Architect | 12 Years Enterprise Infrastructure | MENA Region**
 
@@ -194,7 +194,7 @@ Written for engineers who build and ship at scale in the real world — no hype,
 
 *"In the Middle East, we don't just deploy to the cloud — we navigate compliance, legacy systems, and organizational change simultaneously. That's the real DevOps challenge."*
 
-**— Mohamed AbdelAziz, Ajman UAE**
+** Mohamed AbdelAziz, Dubai UAE**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maziz00&color=blue&style=flat-square)
 
