@@ -105,12 +105,6 @@ graph TB
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-**Certifications**
-
-![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS-SAA](https://img.shields.io/badge/AWS_SAA-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
 </div>
 
 ---
