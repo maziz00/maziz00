@@ -170,16 +170,6 @@ Most DevOps resources are written for Silicon Valley. **I write and build for th
 
 ---
 
-## 📬 The DevOps Dispatch — Weekly Newsletter
-
-Every week: **1 DevOps insight, 1 tool deep-dive, 1 war story, 1 job market tip.**  
-Written for engineers who build and ship at scale in the real world — no hype, no fluff.
-
-**📩 [Subscribe free → devopsdispatch.beehiiv.com](https://devopsdispatch.beehiiv.com)**  
-*Free K8s Production Checklist when you subscribe.*
-
----
-
 ## 💼 Available for Consulting
 
 **Specializations:**
