@@ -128,8 +128,13 @@ Production-grade DevOps templates built from 12 years of enterprise work.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maziz00&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maziz00&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=maziz00&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" onerror="this.style.display='none'" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziz00&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" onerror="this.style.display='none'" />
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=maziz00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
