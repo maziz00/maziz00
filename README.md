@@ -153,7 +153,7 @@ Production-grade DevOps templates built from 12 years of enterprise work.
 
 Most DevOps resources are written for Silicon Valley. **I write and build for the reality of enterprise infrastructure in the UAE, Saudi Arabia, and Egypt:**
 
-- 🏛️ Government & banking compliance (NESA, PDPL, NCA, MOD security)
+- 🏛️ Government & Telecom compliance (NESA, PDPL, NCA, MOD security)
 - 🏢 Legacy data center → cloud migration in regulated environments
 - 🌐 Multi-cloud governance in Arabic-speaking organizations
 - 📋 Red Hat OpenShift + Kubernetes in air-gapped enterprise environments
