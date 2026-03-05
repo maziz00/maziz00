@@ -128,13 +128,18 @@ Production-grade DevOps templates built from 12 years of enterprise work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maziz00&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" onerror="this.style.display='none'" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziz00&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" onerror="this.style.display='none'" />
-
-<br/>
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/maziz00?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=maziz00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maziz00&theme=dark)](https://github.com/maziz00)
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maziz00&theme=dark" alt="Repos Per Language"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maziz00&theme=dark" alt="Stats"/></td>
+  </tr>
+</table>
 
 </div>
 
