@@ -120,7 +120,7 @@ Production-grade DevOps templates built from 12 years of enterprise work.
 | [☁️ terraform-modules](https://github.com/maziz00/terraform-modules) | Reusable Terraform modules for EKS, GKE, VPC | Terraform, AWS, GCP |
 | [⚓ k8s-helm-charts](https://github.com/maziz00/k8s-helm-charts) | Helm charts for production Kubernetes deployments | Kubernetes, Helm, ArgoCD |
 | [🔒 ansible-hardening](https://github.com/maziz00/ansible-hardening) | RHEL/CentOS security hardening playbooks (CIS benchmark) | Ansible, Red Hat |
-| [🤖 openclaw-gcp-deployment](https://github.com/maziz00/openclaw-gcp-deployment) | Production-grade OpenClaw AI assistant on GCP — Terraform + Ansible, SELinux, cost monitoring | Terraform, Ansible, GCP, Docker |
+| [🤖 openclaw-gcp-deployment](https://github.com/maziz00/openclaw-gcp) | Production-grade OpenClaw AI assistant on GCP — Terraform + Ansible, SELinux, cost monitoring | Terraform, Ansible, GCP, Docker |
 
 ---
 
