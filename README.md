@@ -15,7 +15,7 @@
 
 ## 🚀 What I Do
 
-I design, build, and automate **production-grade cloud infrastructure** for enterprises across the MENA region — from bare-metal data centers to cloud-native Kubernetes platforms.
+I design, build, and automate **production-grade cloud infrastructure** for enterprises across the MENA region from bare-metal data centers to cloud-native Kubernetes platforms.
 
 12 years. Hundreds of pipelines. Dozens of migrations. Real war stories, documented.
 
@@ -188,7 +188,7 @@ Most DevOps resources are written for Silicon Valley. **I write and build for th
 
 <div align="center">
 
-*"In the Middle East, we don't just deploy to the cloud — we navigate compliance, legacy systems, and organizational change simultaneously. That's the real DevOps challenge."*
+*"In the Middle East, we don't just deploy to the cloud we navigate compliance, legacy systems, and organizational change simultaneously. That's the real DevOps challenge."*
 
 ** Mohamed AbdelAziz, Dubai UAE**
 
